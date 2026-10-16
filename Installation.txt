@@ -1,0 +1,4 @@
+1. download all files as .zip
+2. In your Five M resources folder, drop the zip and extract all content into a folder, ideally with the same name, as the script. 
+Make sure the this is the structure: Resources/(folder where downloaded files were put into/downloaded files (dll, lua)
+3. Refresh your server and start the script. 
